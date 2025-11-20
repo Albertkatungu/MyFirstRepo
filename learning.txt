@@ -1,1 +1,2 @@
+What I have learned from this course
 I’ve started gaining a better understanding of how to use GitHub, especially working with repositories, creating files, and pushing updates from my local machine. I’ve also learned several Linux commands that help me navigate directories, edit files, and manage my work more efficiently in the terminal. It’s becoming clearer how Git and Linux work together, and I’m feeling more confident using both.
